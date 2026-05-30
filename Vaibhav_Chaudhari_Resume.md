@@ -1,8 +1,10 @@
-Vaibhav Chaudhari
+**Vaibhav Chaudhari**
+
 Pune, Maharashtra | 9302627310 | vaibhav.chaudhari1712@gmail.com
 Data Engineer | AI-Assisted Development | Python | SQL | ERP | OMS | CMMS
 ________________________________________
-Professional Summary
+**Professional Summary**
+
 •	2+ years of experience as a Data Engineer focusing on Industrial Automation, Data Management, and Data Analytics at Wipro and IG Petrochemicals Ltd..
 
 •	Skilled in building and optimizing ETL Workflows, Data Pipelines, Data Cleaning, and Trend Analysis using Python and SQL.
@@ -13,7 +15,8 @@ Professional Summary
 
 •	Familiar with AI-assisted development tools including ChatGPT, Gemini, and Claude Code for automation, analytics, debugging, and rapid application development.
 ________________________________________
-Key Skills
+**Key Skills**
+
 •	Programming: Python (NumPy, Pandas), Object-Oriented Programming
 •	Databases: SQL Server Management Studio.
 •	Data Engineering: Spark,Data Pipelines, Data Cleansing, Data Integration.
@@ -36,7 +39,7 @@ July 2023 – Oct 2025
 
 •	Collaborated with engineering and analytics teams to ensure data accuracy, minimal downtime, and end-to-end automation solutions for clients including BKT, KOEL, Ford Turkey, and Ford BEVG.
 
-Upskilling Period
+**Upskilling Period**
 Nov 2025 – Mar 2026  
 
 •	Focused on upskilling in Power BI, Tableau, ETL Development, Data Analytics, and AI-assisted development tools. 
@@ -54,8 +57,9 @@ April 2026 – Present
 
 •	Utilized AI tools such as ChatGPT, Gemini, and Claude Code to improve productivity, automation, and development workflows.
 ________________________________________
-Projects
-Sales Data Analysis & Dashboarding (Power BI, Excel,Python,Numpy,Pandas)
+**Projects**
+
+1) Sales Data Analysis & Dashboarding (Power BI, Excel,Python,Numpy,Pandas)
 
 •	Designed and developed an interactive Power BI Sales Dashboard to analyze ecommerce performance across profit, revenue, quantity.
 
@@ -65,8 +69,8 @@ Sales Data Analysis & Dashboarding (Power BI, Excel,Python,Numpy,Pandas)
 
 •	Enabled data-driven decision-making by transforming raw sales data into clear, actionable visual insights for business stakeholders.
 
-AI-Based Tiffin Service Website Development 
-https://splendorous-puffpuff-7d935e.netlify.app/
+2) AI-Based Tiffin Service Website Development 
+**Link** : https://splendorous-puffpuff-7d935e.netlify.app/
 
 •	Developed an AI-assisted Tiffin Service website using Claude Code and ChatGPT to accelerate frontend development, UI design, and feature implementation.
 
@@ -78,7 +82,7 @@ https://splendorous-puffpuff-7d935e.netlify.app/
 
 •	Deployed and hosted the application on Netlify for reliable public access and availability.
 
-AI-Powered Headline Generator (Python)
+3) AI-Powered Headline Generator (Python)
 
 •	Developed a Python-based text generation tool that produces context-aware and humorous news headlines using categorized NLP components and real-world entities.
 
@@ -87,10 +91,14 @@ AI-Powered Headline Generator (Python)
 •	Applied modular design principles to ensure scalability, maintainability, and clean separation of logic.
 ________________________________________
 
-Education
+**Education**
+
 •	PG Diploma, IoT (Internet of Things), 2023 — CDAC Acts, Pune
+
 •	BTech, Electrical Engineering, 2021 — LNCT, Bhopal (M.P.)
-Certifications
+
+**Certifications**
+
 1.  GitHub Copilot Professional Certificate.
 2. Python Practice Operations. 
 3. Claude Code 101 
