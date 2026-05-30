@@ -7,7 +7,8 @@ Professional Summary
 •	Skilled in building and optimizing ETL Workflows, Data Pipelines, Data Cleaning, and Trend Analysis using Python and SQL.
 •	Experienced in working with industrial and enterprise systems including OMS, ERP, and CMMS for automation, reporting, and operational monitoring.
 •	Worked on Real-Time Data Collection Systems and collaborated with cross-functional teams to improve data quality, efficiency, and business decision-making.
-•	Familiar with AI-assisted development tools including ChatGPT, Gemini, and Claude Code for automation, analytics, debugging, and rapid application development.________________________________________
+•	Familiar with AI-assisted development tools including ChatGPT, Gemini, and Claude Code for automation, analytics, debugging, and rapid application development.
+________________________________________
 Key Skills
 •	Programming: Python (NumPy, Pandas), Object-Oriented Programming
 •	Databases: SQL Server Management Studio.
@@ -46,7 +47,7 @@ Sales Data Analysis & Dashboarding (Power BI, Excel,Python,Numpy,Pandas)
 •	Enabled data-driven decision-making by transforming raw sales data into clear, actionable visual insights for business stakeholders.
 
 AI-Based Tiffin Service Website Development 
-https://splendorous-puffpuff-7d935e.netlify.app/)
+https://splendorous-puffpuff-7d935e.netlify.app/
 
 •	Developed an AI-assisted Tiffin Service website using Claude Code and ChatGPT to accelerate frontend development, UI design, and feature implementation.
 •	Built a responsive web application where users can submit customer/order details and automatically trigger WhatsApp notifications for service communication and order updates.
