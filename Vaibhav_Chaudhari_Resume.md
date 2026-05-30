@@ -4,9 +4,13 @@ Data Engineer | AI-Assisted Development | Python | SQL | ERP | OMS | CMMS
 ________________________________________
 Professional Summary
 •	2+ years of experience as a Data Engineer focusing on Industrial Automation, Data Management, and Data Analytics at Wipro and IG Petrochemicals Ltd..
+
 •	Skilled in building and optimizing ETL Workflows, Data Pipelines, Data Cleaning, and Trend Analysis using Python and SQL.
+
 •	Experienced in working with industrial and enterprise systems including OMS, ERP, and CMMS for automation, reporting, and operational monitoring.
+
 •	Worked on Real-Time Data Collection Systems and collaborated with cross-functional teams to improve data quality, efficiency, and business decision-making.
+
 •	Familiar with AI-assisted development tools including ChatGPT, Gemini, and Claude Code for automation, analytics, debugging, and rapid application development.
 ________________________________________
 Key Skills
@@ -26,12 +30,16 @@ July 2023 – Oct 2025
 •	Built scalable ETL pipelines for real-time and batch processing, improving data delivery speed by 37% and enhancing system performance through optimized SQL queries, stored procedures, and data models.
 
 •	Integrated shop-floor devices through OPC UA, connecting PLCs, Kepware, and FactoryTalk for automated industrial data collection and monitoring.
+
 •	Processed production and IoT data using Python to support KPI tracking, quality analysis, compliance reporting, alert systems, and automated reporting for faster decision-making.
+
 •	Collaborated with engineering and analytics teams to ensure data accuracy, minimal downtime, and end-to-end automation solutions for clients including BKT, KOEL, Ford Turkey, and Ford BEVG.
 
 Upskilling Period
 Nov 2025 – Mar 2026  
+
 •	Focused on upskilling in Power BI, Tableau, ETL Development, Data Analytics, and AI-assisted development tools. 
+
 •	Built personal projects involving automation, dashboards, and AI-assisted web applications. 
 
 IG Petrochemicals Ltd, Navi Mumbai — Data Engineer
@@ -53,14 +61,21 @@ AI-Based Tiffin Service Website Development
 https://splendorous-puffpuff-7d935e.netlify.app/
 
 •	Developed an AI-assisted Tiffin Service website using Claude Code and ChatGPT to accelerate frontend development, UI design, and feature implementation.
+
 •	Built a responsive web application where users can submit customer/order details and automatically trigger WhatsApp notifications for service communication and order updates.
+
 •	Implemented modern UI/UX design with seamless form handling, user-friendly navigation, and mobile-responsive layouts.
+
 •	Integrated automated workflow functionality to improve customer interaction and streamline service management.
+
 •	Deployed and hosted the application on Netlify for reliable public access and availability.
 
 AI-Powered Headline Generator (Python)
+
 •	Developed a Python-based text generation tool that produces context-aware and humorous news headlines using categorized NLP components and real-world entities.
+
 •	Implemented grammar rules, structured logging, and timestamped outputs to improve output quality, traceability, and usability.
+
 •	Applied modular design principles to ensure scalability, maintainability, and clean separation of logic.
 ________________________________________
 
