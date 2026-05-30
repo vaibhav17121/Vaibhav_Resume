@@ -100,6 +100,6 @@ ________________________________________
 **Certifications**
 
 1.  GitHub Copilot Professional Certificate.
-2. Python Practice Operations. 
+2. Python 100 Days Of Code. 
 3. Claude Code 101 
 4. Claude AI Capabilities and Limitations
