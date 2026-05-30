@@ -46,15 +46,22 @@ IG Petrochemicals Ltd, Navi Mumbai — Data Engineer
 April 2026 – Present
 
 •	Worked on ETL processes involving data cleaning, preprocessing, and trend analysis. 
+
 •	Analyzed operational datasets to identify patterns, inconsistencies, and process insights.
+
 •	Used Python and SQL for data transformation and reporting activities. 
+
 •	Utilized AI tools such as ChatGPT, Gemini, and Claude Code to improve productivity, automation, and development workflows.
 ________________________________________
 Projects
 Sales Data Analysis & Dashboarding (Power BI, Excel,Python,Numpy,Pandas)
+
 •	Designed and developed an interactive Power BI Sales Dashboard to analyze ecommerce performance across profit, revenue, quantity.
+
 •	Visualized profit trends by month, profit by sub-category, and quantity distribution by category to identify high-performing products and seasonal patterns 
+
 •	Implemented KPI cards for Total Sales (438K), Total Profit (37K), and Average Order Value (121) to support quick executive-level insights
+
 •	Enabled data-driven decision-making by transforming raw sales data into clear, actionable visual insights for business stakeholders.
 
 AI-Based Tiffin Service Website Development 
