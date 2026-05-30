@@ -21,7 +21,8 @@ Key Skills
 •	Analytics: Data Analysis, Data Visualization (Excel),VBA,Macros,Power BI
 •	Other: Git, Linux, Studio 5000, Project Leadership, Root Cause Analysis, Documentation
 ________________________________________
-Professional Experience 
+**Professional Experience** 
+
 Wirpo LineCraftAI Pune — Data Engineer
 July 2023 – Oct 2025
 
