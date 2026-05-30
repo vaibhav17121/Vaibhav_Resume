@@ -22,7 +22,9 @@ Wirpo LineCraftAI Pune — Data Engineer
 July 2023 – Oct 2025
 
 •	Led data integration projects using Python and SQL for automated extraction, cleaning, and transformation of data from multiple sources.
+
 •	Built scalable ETL pipelines for real-time and batch processing, improving data delivery speed by 37% and enhancing system performance through optimized SQL queries, stored procedures, and data models.
+
 •	Integrated shop-floor devices through OPC UA, connecting PLCs, Kepware, and FactoryTalk for automated industrial data collection and monitoring.
 •	Processed production and IoT data using Python to support KPI tracking, quality analysis, compliance reporting, alert systems, and automated reporting for faster decision-making.
 •	Collaborated with engineering and analytics teams to ensure data accuracy, minimal downtime, and end-to-end automation solutions for clients including BKT, KOEL, Ford Turkey, and Ford BEVG.
